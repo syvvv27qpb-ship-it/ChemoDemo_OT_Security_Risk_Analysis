@@ -1,4 +1,4 @@
-# OT Security Hazard & Risk Analysis – ChemoDemo AG
+# OT Security Threat & Risk Analysis – ChemoDemo AG
 
 > **Note:** The analysis and the case-study documents are written in **German**. This README is in English for accessibility.
 
