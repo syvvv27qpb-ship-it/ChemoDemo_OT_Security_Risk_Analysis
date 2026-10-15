@@ -86,7 +86,7 @@ Open the `.xlsx` file in Excel or LibreOffice and read the sheets in the order l
 
 ## Authors
 
-Aziz Hidri, Mouheb Jounaidi
+Mouheb Jounaidi, Aziz Hidri
 
 ## Disclaimer
 
